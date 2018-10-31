@@ -1,0 +1,29 @@
+body {
+    background:lightcoral;
+    color: rebeccapurple;
+}
+h1 {
+    color: darkblue;
+}
+h2, h3 {
+    color: mediumseagreen;
+}
+#container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+    background: lightgoldenrodyellow;
+}
+section {
+    width: 50%
+}
+.Name {
+    border-right: 5px black solid;
+}
+
+.Description {
+    float: right;
+}
+
+footer{
+    clear: both;
