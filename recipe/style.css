@@ -1,0 +1,30 @@
+body {
+    background:lightblue;
+    color: purple;
+}
+h1 {
+    color: orange;
+}
+h2, h3 {
+    color: green;
+}
+#container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+    background: lightgrey;
+}
+section {
+    width: 50%
+}
+.ingredient {
+    border-right: 1px black solid;
+}
+
+.step {
+    float: right;
+}
+
+footer{
+    clear: both;
+}
